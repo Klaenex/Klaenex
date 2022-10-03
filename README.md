@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Klaenex
 - 👀 I’m interested in Front end and App developement 
 - 🌱 I’m currently learning React / React-Native
-- 🔭 I'm looking for an internship
+- 🔭 I'm looking for a job
 - 📫 How to reach me hello@cuozzovincenzo.be
